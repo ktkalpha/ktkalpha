@@ -1,6 +1,10 @@
-# Hello! I'm ktkalpha!
-I'm a middle school freshman in Korea.
-I'm into learning new technologies.
+# ktkalpha
+![Built by developers](https://forthebadge.com/images/badges/built-by-developers.svg)
+> a middle school student in Korea.
+
+I like learning new technologies.
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ktkalpha&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 [![My Skills](https://skillicons.dev/icons?i=svelte,windicss,vite,nodejs,js,html,css,vue,react,nextjs)](https://skillicons.dev)
 
