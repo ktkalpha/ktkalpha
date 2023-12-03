@@ -1,14 +1,8 @@
 # ktkalpha
 ![Built by developers](https://forthebadge.com/images/badges/built-by-developers.svg)
-> a middle school student in Korea.
- _  _______ _  __    _    _     ____  _   _    _    
-| |/ /_   _| |/ /   / \  | |   |  _ \| | | |  / \   
-| ' /  | | | ' /   / _ \ | |   | |_) | |_| | / _ \  
-| . \  | | | . \  / ___ \| |___|  __/|  _  |/ ___ \ 
-|_|\_\ |_| |_|\_\/_/   \_\_____|_|   |_| |_/_/   \_\
-                                                    
+> a middle school student in Korea.                 
 Hello I'm ktkalpha.
-I'm student and I like programming!
+I like programming!
 I usually use Python, C, and JavaScript
 I like learning new technologies.
 
